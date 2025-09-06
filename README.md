@@ -9,13 +9,14 @@
 <br>
 <details open>
     <summary align="center"><h2> <img src="https://camo.githubusercontent.com/e6733dc875a6a93407349aeb14b502a16750420d342e92c7d3f1f287fa4a828e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33662f37652f34652f33663765346566663763393665396665346238623462316666336637626462352e676966" data-canonical-src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" style="max-width: 100%; display: inline-block; margin-right:2px;" data-target="animated-image.originalImage" width="35.98px"> Sobre mim </h2></summary>
-    <p align="center"> Sou estudante de Gestão da Tecnologia da Informação na UNOPAR, com experiência prática em design gráfico e desenvolvimento front-end. </p>
-    <img align="right" alt="GIF" src="./image/ia.brain.gif" width=35% height=45%/>
-    <h3> <img alt="GIF" src="./Image/ia.brain.gif" width="20px" />  Um pouco mais de detalhe: </h3>
+    <p align="center"> Desenvolvedor Front-End e entusiasta de TI do Brasil, apaixonado por criar experiências digitais únicas. </p>
+    <img align="right" alt="GIF" src="./image/Penguin.Coding.gif" width="35%" height="45%" style="border: 2px solid transparent; border-radius: 20px;"/>
+    <h3> <img alt="GIF" src="./Image/gifgi.gif" width="25px" />  Um pouco mais de detalhe: </h3>
     <ul>
-        <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a college student, studying to be a programmer.</a></li><br>
-        <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;  I actively participate in IT events.</a></li><br>
-        <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I am actively involved in sports.</a></li><br>
-        <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/graduation.gif" width="30px"/>&nbsp; Tecnologia em Gestão da Informação (TI) — constantemente evoluindo no YouTube e em projetos web. </a></li><br>
+        <li><a><img alt="GIF" src="./Image/Web.Dev.gif" width="30px" />&nbsp; Atuo com design de interfaces (UI/UX), Figma, desenvolvimento web com HTML, CSS, JavaScript, Vue.js e Tailwind CSS, além de integração com APIs. </a></li><br>
+        <li><a><img alt="GIF" src="./Image/Cat.Fit.gif" width="30px" />&nbsp; Em constante crescimento pessoal, aprimorando habilidades em desenvolvimento web e boas práticas de código limpo. </a></li><br>
+        <li><a><img alt="GIF" src="./Image/ia.brain.gif" width="40px" />&nbsp; Transformo ideias em experiências digitais únicas, criando aplicações web funcionais, interativas e visualmente impactantes. </a></li><br>
     </ul>
 <br>
+
