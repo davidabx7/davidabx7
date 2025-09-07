@@ -35,16 +35,12 @@
   <img src="https://wakatime.com/share/@K1rsN7/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
   </div>
 
+<details open>
+<summary align="center"><h2> <img alt="GIF" src="https://github.com/user-attachments/assets/7bee3828-2c04-4810-88f1-19f832884d6b" width="25px"> 3D Contribution Calendar </h2></summary>
+<p align='center'>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg">
+</p>
 
-<br>
-</details>
-
-
-![giphy](https://github.com/user-attachments/assets/7bee3828-2c04-4810-88f1-19f832884d6b)
-
-
-
-Estatísticas de perfil
 
 
 ## 3D Contribution Calendar 📅
@@ -53,7 +49,3 @@ Estatísticas de perfil
 <img src="./profile-3d-contrib/profile-night-green.svg">
 </p>
 <hr>
-
-
-
-![giphy](https://github.com/user-attachments/assets/31a36362-ac60-4dd0-98b1-1b2960fbe41c)
