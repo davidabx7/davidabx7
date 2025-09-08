@@ -35,7 +35,12 @@
   <img src="">
         <img src="https://github.com/ashutosh00710/github-readme-activity-graph">
  <br>
-
+      
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidabx7/davidabx7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidabx7/davidabx7/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davidabx7/davidabx7/output/github-contribution-grid-snake.svg">
+</picture>
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidabx7/davidabx7/output/pacman-contribution-graph-dark.svg">
@@ -57,3 +62,11 @@
 <img src="./profile-3d-contrib/profile-night-green.svg">
 </p>
 <hr>
+
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidabx7/davidabx7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidabx7/davidabx7/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davidabx7/davidabx7/output/github-contribution-grid-snake.svg">
+</picture>
