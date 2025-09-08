@@ -8,7 +8,7 @@
 
 <br>
 <details open>
-    <summary align="center"><h2> <img src="https://camo.githubusercontent.com/e6733dc875a6a93407349aeb14b502a16750420d342e92c7d3f1f287fa4a828e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33662f37652f34652f33663765346566663763393665396665346238623462316666336637626462352e676966" data-canonical-src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" style="max-width: 100%; display: inline-block; margin-right:2px;" data-target="animated-image.originalImage" width="35.98px"> Sobre mim </h2></summary>
+    <summary  align="center"><h2> <img src="https://camo.githubusercontent.com/e6733dc875a6a93407349aeb14b502a16750420d342e92c7d3f1f287fa4a828e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33662f37652f34652f33663765346566663763393665396665346238623462316666336637626462352e676966" data-canonical-src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" style="max-width: 100%; display: inline-block; margin-right:2px;" data-target="animated-image.originalImage" width="35.98px"> Sobre mim </h2></summary>
     <p align="center"> Desenvolvedor Front-End e entusiasta de TI do Brasil, apaixonado por criar experiências digitais únicas. </p>
     <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/f70db02b-887c-4c64-a827-5d8a9809ef03" width="35%" height="45%" style="border: 2px solid transparent; border-radius: 20px;"/>
     <h3> <img alt="GIF" src="https://github.com/user-attachments/assets/f9591a1c-d1b5-4de9-b69f-6f01f7e07fdf" width="25px" />  Um pouco mais de detalhe: </h3>
@@ -32,14 +32,37 @@
   <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=K1rsN7&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
   <a href="https://github.com/K1rsN7/K1rsN7"><img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=K1rsN7&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
-  <img src="https://wakatime.com/share/@K1rsN7/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg">
+        <img src="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+      </picture>
+
   </div>
 
 <details open>
-<summary align="center"><h2> <img alt="GIF" src="https://github.com/user-attachments/assets/7bee3828-2c04-4810-88f1-19f832884d6b" width="25px"> 3D Contribution Calendar </h2></summary>
+<summary align="center"><h2> <img alt="GIF" src="https://github.com/user-attachments/assets/c8542f15-059a-402d-ba79-14ac0d039ea3" width="40px"> Calendário de Contribuições 3D </h2></summary>
 <p align='center'>
 <img src="./profile-3d-contrib/profile-night-rainbow.svg">
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
+ gittttttttttttttttttttttt
+
+
+
+
+
+
 
 
 
