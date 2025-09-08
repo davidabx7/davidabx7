@@ -34,24 +34,9 @@
   <a href="https://github.com/K1rsN7/K1rsN7"><img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=K1rsN7&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   <img src="">
         <img src="https://github.com/ashutosh00710/github-readme-activity-graph">
+ <br>
 
-csaca
-
-
- <img src="https://raw.githubusercontent.com/davidabx1/davidabx1/output/pacman-contribution-graph-dark.svg">
- <img src="">
-
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidabx1/davidabx1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidabx1/davidabx1/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/davidabx1/davidabx1/output/pacman-contribution-graph.svg">
-</picture>
-
-
-  </div>
+<br>
 
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="https://github.com/user-attachments/assets/c8542f15-059a-402d-ba79-14ac0d039ea3" width="40px"> Calendário de Contribuições 3D </h2></summary>
@@ -59,26 +44,6 @@ csaca
 <img src="./profile-3d-contrib/profile-night-rainbow.svg">
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
- gittttttttttttttttttttttt
-
-
-
-
-
-
-
-
-
-## 3D Contribution Calendar 📅
-<br>
 <p align='center'>
 <img src="./profile-3d-contrib/profile-night-green.svg">
 </p>
