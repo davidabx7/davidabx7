@@ -17,9 +17,9 @@ jobs:
 
     steps:
       - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+        uses: davidabx1/pacman-contribution-graph@main
         with:
-          github_user_name: DavidABx
+          github_user_name: davidabx1
 
       # Push the generated SVG to the output branch
       - name: Push pacman-contribution-graph.svg to the output branch
