@@ -19,8 +19,9 @@
         <li><a><img alt="GIF" src="https://github.com/user-attachments/assets/89d5ccef-7a21-4c01-a608-9ce64d155356" width="40px" />&nbsp; Transformo ideias em experiências digitais únicas, criando aplicações web funcionais, interativas e visualmente impactantes. </a></li><br>
     </ul>
 <br>
+</details>
 
- <br>
+<br>
 
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="https://github.com/user-attachments/assets/7bee3828-2c04-4810-88f1-19f832884d6b" width="25px"> Estatísticas de perfil </h2></summary>
@@ -34,7 +35,6 @@
   <a href="https://github.com/K1rsN7/K1rsN7"><img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=K1rsN7&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   <img src="">
         <img src="https://github.com/ashutosh00710/github-readme-activity-graph">
-</details>
  <br>
       
 <picture align="center">
