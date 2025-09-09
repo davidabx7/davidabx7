@@ -32,7 +32,7 @@
   </div>
   <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=davidabx7&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
-  <a href="https://github.com/davidabx7/davidabx7"><img alt="davidabx7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=davidabx7&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  <a href="https://github.com/davidabx7/davidabx7"><img alt="davidabx7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=davidabx7&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Grap" /></a>
       
  <br>
 
