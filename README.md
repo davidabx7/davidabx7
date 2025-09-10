@@ -71,7 +71,7 @@
 </details>
 
 <details open>
-<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/4ac75538-a665-40b8-8ed5-cd263ac8d813" width="35px" > Design </h2></summary>
+<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/44caf54c-39ed-46ee-bd85-fdcb82d46023" width="35px" > Design </h2></summary>
 </details>
 
 </details>
