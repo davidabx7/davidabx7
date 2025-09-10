@@ -22,6 +22,58 @@
 </details>
 
 <br>
+<details open>
+<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/410f345d-0320-44c0-a1a1-2fa4d82b9e37" width="35px" > Tech Stack </h2></summary>
+<br>
+    <details open>
+<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/410f345d-0320-44c0-a1a1-2fa4d82b9e37" width="35px" > Front-End </h2></summary>
+<div align="center">
+    <p></p> 
+    <a href="https://www.java.com/en/" target="_blank"> <img alt="Java" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
+    <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img alt="MongoDB" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img alt="TensorFlow" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
+    <a href="https://keras.io/" target="_blank"> <img alt="Keras" height="42px"  src="https://res.cloudinary.com/apideck/image/upload/v1614063907/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/abxnujenvxm9lx0orn4k.png" /></a>
+    <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" /></a>
+    <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" /></a>
+    <a href="https://unity.com/" target="_blank"> <img alt="Unity" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img alt="C" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
+    <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img alt="Windows" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>
+    <a href="https://www.arduino.cc/" target="_blank"> <img alt="Arduino" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>
+    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"> <img alt="Bash" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /></a>
+    <a href="https://www.blender.org/" target="_blank"> <img alt="Blender" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" /></a>
+    <a href="https://www.php.net/" target="_blank"> <img alt="PHP" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></a>
+    <a href="https://developer.android.com/studio" target="_blank"> <img alt="Android Studio" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" /></a>
+    <a href="https://ubuntu.com/" target="_blank"> <img alt="Ubuntu" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /></a>
+    <br>
+    <p></p>
+</div>
+</details>
+<br>
+
+<details open>
+<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/410f345d-0320-44c0-a1a1-2fa4d82b9e37" width="35px" > Front-End </h2></summary>
+</details>
+
+<details open>
+<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/410f345d-0320-44c0-a1a1-2fa4d82b9e37" width="35px" > Back-End </h2></summary>
+</details>
+
+<details open>
+<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/410f345d-0320-44c0-a1a1-2fa4d82b9e37" width="35px" > Database </h2></summary>
+</details>
+
+<details open>
+<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/410f345d-0320-44c0-a1a1-2fa4d82b9e37" width="35px" > Networking  </h2></summary>
+</details>
+
+<details open>
+<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/410f345d-0320-44c0-a1a1-2fa4d82b9e37" width="35px" > Design </h2></summary>
+</details>
+
+</details>
+
+<br>
 
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="https://github.com/user-attachments/assets/7bee3828-2c04-4810-88f1-19f832884d6b" width="25px"> Estatísticas de perfil </h2></summary>
@@ -51,4 +103,7 @@
 <p align='center'>
 <img src="./profile-3d-contrib/profile-night-rainbow.svg">
 </p>
+
+
+
 
