@@ -21,12 +21,16 @@
 <br>
 </details>
 
+![giphy](https://github.com/user-attachments/assets/3a531156-8fc6-4881-8201-70d26942efc5)
+
+
+
 <br>
 <details open>
-<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/410f345d-0320-44c0-a1a1-2fa4d82b9e37" width="35px" > Tech Stack </h2></summary>
+<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/0490c688-f4a9-4d1c-8aaf-d186c1b291c9" width="35px" > Tech Stack </h2></summary>
 <br>
     <details open>
-<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/410f345d-0320-44c0-a1a1-2fa4d82b9e37" width="35px" > Front-End </h2></summary>
+<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/10496278-6c2c-4b7d-b5f5-7149e684135a" width="25px" > Front-End </h2></summary>
 <div align="center">
     <p></p> 
     <a href="https://www.java.com/en/" target="_blank"> <img alt="Java" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
@@ -51,24 +55,23 @@
 </details>
 <br>
 
+
+
+
 <details open>
-<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/410f345d-0320-44c0-a1a1-2fa4d82b9e37" width="35px" > Front-End </h2></summary>
+<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/fd0af5a9-9b0b-4dc1-b5b3-efb2178c9734" width="35px" > Back-End </h2></summary>
 </details>
 
 <details open>
-<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/410f345d-0320-44c0-a1a1-2fa4d82b9e37" width="35px" > Back-End </h2></summary>
+<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/5d7f5b1e-95a6-4c88-858a-30cc3844fdd4" width="35px" > Database </h2></summary>
 </details>
 
 <details open>
-<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/410f345d-0320-44c0-a1a1-2fa4d82b9e37" width="35px" > Database </h2></summary>
+<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/38b8923a-076e-4349-a849-d7547009bf9b" width="35px" > Networking  </h2></summary>
 </details>
 
 <details open>
-<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/410f345d-0320-44c0-a1a1-2fa4d82b9e37" width="35px" > Networking  </h2></summary>
-</details>
-
-<details open>
-<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/410f345d-0320-44c0-a1a1-2fa4d82b9e37" width="35px" > Design </h2></summary>
+<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/4ac75538-a665-40b8-8ed5-cd263ac8d813" width="35px" > Design </h2></summary>
 </details>
 
 </details>
