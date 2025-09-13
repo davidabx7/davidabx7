@@ -22,37 +22,25 @@
 </details>
 
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" height="100" /></div>
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="90" height="100" /></div>
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /></div>
 
 <br>
 <details open>
 <summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/0490c688-f4a9-4d1c-8aaf-d186c1b291c9" width="35px" > Tech Stack </h2></summary>
 <br>
-    <details open>
-<summary align="left"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/10496278-6c2c-4b7d-b5f5-7149e684135a" width="25px" > Front-End </h2></summary>
-<div align="left"> 
     <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" /></a>
     <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" /></a>
-    <a href="#" target="_blank"> <img alt="Javascript" height="42px" src="js-icon.svg" /></a>
-     <a href="#" target="_blank"> <img alt="Typerscript" height="42px" src="ts-icon.svg" /></a>
+    <a href="#" target="_blank"> <img alt="Javascript" height="42px" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
+     <a href="#" target="_blank"> <img alt="Typerscript" height="42px" src="https://techstack-generator.vercel.app/ts-icon.svg" /></a>
      <a href="#" target="_blank"> <img alt="" height="42px" src="tailwindcss-original.svg" /></a>
+     <a href="#" target="_blank"> <img alt="Typerscript" height="42px" src="vuejs-original-1.svg" /></a>
      <a href="#" target="_blank"> <img alt="Typerscript" height="42px" src="vitejs-original.svg" /></a>
      <a href="#" target="_blank"> <img alt="Typerscript" height="42px" src="figma-original.svg" /></a>
-    <br>
-    <p></p>
-</div>
-</details>
-<br>
-
-
-
-
-
-
-<details open>
-<summary align="left"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/fd0af5a9-9b0b-4dc1-b5b3-efb2178c9734" width="35px" > Back-End </h2></summary>
-<div align="left"> 
-    <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="python-icon.svg" /></a>
+    <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://techstack-generator.vercel.app/python-icon.svg" /></a>
     <a href="#" target="_blank"> <img alt="php" height ="42px"  src="php-original.svg" /></a>
     <a href="https://laravel.com/" target="_blank"> <img alt="Python" height ="42px"  src="laravel-original.svg" /></a>
     <a href="https://laravel.com/" target="_blank"> <img alt="Python" height ="42px"  src="laravel-original.svg" /></a>
@@ -60,21 +48,9 @@
     <a href="https://laravel.com/" target="_blank"> <img alt="Python" height ="42px"  src="laravel-original.svg" /></a>
     <a href="https://laravel.com/" target="_blank"> <img alt="Python" height ="42px"  src="laravel-original.svg" /></a>
 
-</details>
 
-<details open>
-<summary align="left"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/5d7f5b1e-95a6-4c88-858a-30cc3844fdd4" width="35px" > Database </h2></summary>
-</details>
 
-<details open>
-<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/38b8923a-076e-4349-a849-d7547009bf9b" width="35px" > Networking  </h2></summary>
-</details>
-
-<details open>
-<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/44caf54c-39ed-46ee-bd85-fdcb82d46023" width="35px" > Design </h2></summary>
-</details>
-
-</details>
+![alt text](vuejs-original-1.svg)
 
 <br>
 
