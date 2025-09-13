@@ -23,33 +23,47 @@
 
 
 
+
 <br>
 <details open>
 <summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/0490c688-f4a9-4d1c-8aaf-d186c1b291c9" width="35px" > Tech Stack </h2></summary>
 <br>
     <details open>
-<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/10496278-6c2c-4b7d-b5f5-7149e684135a" width="25px" > Front-End </h2></summary>
-<div align="center"> 
+<summary align="left"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/10496278-6c2c-4b7d-b5f5-7149e684135a" width="25px" > Front-End </h2></summary>
+<div align="left"> 
     <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" /></a>
     <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" /></a>
     <a href="#" target="_blank"> <img alt="Javascript" height="42px" src="js-icon.svg" /></a>
+     <a href="#" target="_blank"> <img alt="Typerscript" height="42px" src="ts-icon.svg" /></a>
+     <a href="#" target="_blank"> <img alt="" height="42px" src="tailwindcss-original.svg" /></a>
+     <a href="#" target="_blank"> <img alt="Typerscript" height="42px" src="vitejs-original.svg" /></a>
+     <a href="#" target="_blank"> <img alt="Typerscript" height="42px" src="figma-original.svg" /></a>
     <br>
     <p></p>
 </div>
 </details>
 <br>
 
-![alt text](vuejs-original.svg)
+
+
+
+
 
 <details open>
-<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/fd0af5a9-9b0b-4dc1-b5b3-efb2178c9734" width="35px" > Back-End </h2></summary>
-<div align="center"> 
+<summary align="left"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/fd0af5a9-9b0b-4dc1-b5b3-efb2178c9734" width="35px" > Back-End </h2></summary>
+<div align="left"> 
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="python-icon.svg" /></a>
-    <a href="https://www.php.net/" target="_blank"> <img alt="PHP" height ="42px"  src="php-original.svg" /></a>
+    <a href="#" target="_blank"> <img alt="php" height ="42px"  src="php-original.svg" /></a>
+    <a href="https://laravel.com/" target="_blank"> <img alt="Python" height ="42px"  src="laravel-original.svg" /></a>
+    <a href="https://laravel.com/" target="_blank"> <img alt="Python" height ="42px"  src="laravel-original.svg" /></a>
+    <a href="https://laravel.com/" target="_blank"> <img alt="Python" height ="42px"  src="laravel-original.svg" /></a>
+    <a href="https://laravel.com/" target="_blank"> <img alt="Python" height ="42px"  src="laravel-original.svg" /></a>
+    <a href="https://laravel.com/" target="_blank"> <img alt="Python" height ="42px"  src="laravel-original.svg" /></a>
+
 </details>
 
 <details open>
-<summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/5d7f5b1e-95a6-4c88-858a-30cc3844fdd4" width="35px" > Database </h2></summary>
+<summary align="left"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/5d7f5b1e-95a6-4c88-858a-30cc3844fdd4" width="35px" > Database </h2></summary>
 </details>
 
 <details open>
