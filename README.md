@@ -39,7 +39,7 @@
     <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" height ="42px"  src="img/tech/laravel-original.svg" /></a>
     <a href="https://wordpress.com/" target="_blank"> <img alt="wordexpress" height ="42px"  src="img/tech/wordpress-roxo.svg" /></a>
      <a href="https://www.mysql.com/" target="_blank"> <img alt="mysql" height ="42px"  src="https://techstack-generator.vercel.app/mysql-icon.svg" /></a>
-     <a href="https://www.mysql.com/" target="_blank"> <img alt="mysql" height ="42px"  src="n8n-original.svg" /></a>
+     <a href="https://n8n.io/" target="_blank"> <img alt="n8n" height ="42px"  src="img/tech/n8n-original.svg" /></a>
     <a href="https://github.com/davidabx7" target="_blank"> <img alt="Github" height ="50px"  src="img/tech/github.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img alt="git" height ="42px"  src="img/tech/git-original-1.svg" /></a>
     <a href="https://laravel.com/" target="_blank"> <img alt="githubactions" height ="42px"  src="img/tech/githubactions-original.svg" /></a>
