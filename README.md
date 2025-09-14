@@ -22,35 +22,33 @@
 </details>
 
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" height="100" /></div>
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="90" height="100" /></div>
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" /></div>
 
 <br>
 <details open>
 <summary align="center"><h2><img alt="GIF" src="https://github.com/user-attachments/assets/0490c688-f4a9-4d1c-8aaf-d186c1b291c9" width="35px" > Tech Stack </h2></summary>
 <br>
-    <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" /></a>
-    <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" /></a>
+    <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px"  src="html.svg" /></a>
+    <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px"  src="css.svg" /></a>
     <a href="#" target="_blank"> <img alt="Javascript" height="42px" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
-     <a href="#" target="_blank"> <img alt="Typerscript" height="42px" src="https://techstack-generator.vercel.app/ts-icon.svg" /></a>
-     <a href="#" target="_blank"> <img alt="" height="42px" src="tailwindcss-original.svg" /></a>
-     <a href="#" target="_blank"> <img alt="Typerscript" height="42px" src="vuejs-original-1.svg" /></a>
-     <a href="#" target="_blank"> <img alt="Typerscript" height="42px" src="vitejs-original.svg" /></a>
-     <a href="#" target="_blank"> <img alt="Typerscript" height="42px" src="figma-original.svg" /></a>
+     <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="Typerscript" height="42px" src="https://techstack-generator.vercel.app/ts-icon.svg" /></a>
+     <a href="https://tailwindcss.com/" target="_blank"> <img alt="tailwindcss" height="42px" src="tailwindcss-2.svg" /></a>
+     <a href="https://vuejs.org/" target="_blank"> <img alt="vuejs" height="38px" src="vue.js.svg" /></a>
+     <a href="#" target="_blank"> <img alt="vitejs" height="42px" src="vitejs-original.svg" /></a>
+     <a href="https://www.figma.com/" target="_blank"> <img alt="Figma" height="42px" src="figma.svg" /></a>
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://techstack-generator.vercel.app/python-icon.svg" /></a>
     <a href="#" target="_blank"> <img alt="php" height ="42px"  src="php-original.svg" /></a>
-    <a href="https://laravel.com/" target="_blank"> <img alt="Python" height ="42px"  src="laravel-original.svg" /></a>
-    <a href="https://laravel.com/" target="_blank"> <img alt="Python" height ="42px"  src="laravel-original.svg" /></a>
-    <a href="https://laravel.com/" target="_blank"> <img alt="Python" height ="42px"  src="laravel-original.svg" /></a>
-    <a href="https://laravel.com/" target="_blank"> <img alt="Python" height ="42px"  src="laravel-original.svg" /></a>
-    <a href="https://laravel.com/" target="_blank"> <img alt="Python" height ="42px"  src="laravel-original.svg" /></a>
+    <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" height ="42px"  src="laravel-original.svg" /></a>
+    <a href="https://wordpress.com/" target="_blank"> <img alt="wordexpress" height ="42px"  src="wordpress-roxo.svg" /></a>
+     <a href="https://www.mysql.com/" target="_blank"> <img alt="mysql" height ="42px"  src="https://techstack-generator.vercel.app/mysql-icon.svg" /></a>
+    <a href="https://github.com/davidabx7" target="_blank"> <img alt="Github" height ="50px"  src="github.svg" /></a>
+    <a href="https://git-scm.com/" target="_blank"> <img alt="git" height ="42px"  src="git-original.svg" /></a>
+    <a href="https://laravel.com/" target="_blank"> <img alt="githubactions" height ="42px"  src="githubactions-original.svg" /></a>
+    <a href="https://laravel.com/" target="_blank"> <img alt="githubactions" height ="42px"  src="githubcodespaces-original.svg" /></a>
 
 
 
-![alt text](vuejs-original-1.svg)
+
+
 
 <br>
 
