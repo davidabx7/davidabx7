@@ -61,7 +61,7 @@
 
   </div>
   <div align="center">
-  <a href="https://github.com/davidabx7/davidabx7"><img alt="davidabx7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=davidabx7&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Grap" /></a>
+  <a href="https://github.com/davidabx7/davidabx7"><img alt="davidabx7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=davidabx7&bg_color=RRGGBBAA&title_color=826CFF&color=826CFF&line=826CFF&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Grap" /></a>
       
  <br>
 
