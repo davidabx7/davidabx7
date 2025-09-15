@@ -43,12 +43,13 @@
     <a href="https://github.com/davidabx7" target="_blank"> <img alt="Github" height ="50px"  src="img/tech/github.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img alt="git" height ="42px"  src="img/tech/git-original-1.svg" /></a>
     <a href="https://laravel.com/" target="_blank"> <img alt="githubactions" height ="42px"  src="img/tech/githubactions-original.svg" /></a>
-    <a href="https://github.com/features/actions" target="_blank"> <img alt="githubactions" height ="42px"  src="img/tech/githubcodespaces.svg" /></a>
-    <a href="https://github.com/features/actions" target="_blank"> <img alt="githubactions" height ="42px"  src="img/tech/vscode.svg" /></a>
-    <a href="https://github.com/features/actions" target="_blank"> <img alt="githubactions" height ="42px"  src="img/tech/cursor-original.svg" /></a>
-    <a href="https://github.com/features/actions" target="_blank"> <img alt="githubactions" height ="42px"  src="img/tech/linux-original.svg" /></a>
-    <a href="https://github.com/features/actions" target="_blank"> <img alt="githubactions" height ="42px"  src="img/tech/excel-original.svg" /></a>
-    <a href="https://github.com/features/actions" target="_blank"> <img alt="githubactions" height ="42px"  src="img/tech/word-original.svg" /></a>
+    <a href="https://github.com/features/codespaces/" target="_blank"> <img alt="githubcodespaces" height ="42px"  src="img/tech/githubcodespaces.svg" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img alt="vscode" height ="42px"  src="img/tech/vscode.svg" /></a>
+    <a href="https://cursor.com/" target="_blank"> <img alt="cursor" height ="42px"  src="img/tech/cursor-original.svg" /></a>
+    <a href="https://pt.wikipedia.org/wiki/Linux/" target="_blank"> <img alt="linux" height ="42px"  src="img/tech/linux-original.svg" /></a>
+    <a href="https://excel.cloud.microsoft/" target="_blank"> <img alt="excel" height ="42px"  src="img/tech/excel-original.svg" /></a>
+    <a href="https://word.cloud.microsoft/" target="_blank"> <img alt="word" height ="42px"  src="img/tech/word-original.svg" /></a>
+</details>
 
 <br>
 
@@ -78,7 +79,12 @@
 <p align='center'>
 <img src="./profile-3d-contrib/profile-night-rainbow.svg">
 </p>
+</details>
 
 <div align="center">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=86&color=gradient&descAlign=61&fontAlign=50&fontAlignY=50&section=footer&reversal"/>
 </div>
+
+
+[def]: ttps://github.com/features/action
+[def2]: mg/tech/github.sv
