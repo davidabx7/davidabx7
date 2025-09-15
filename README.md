@@ -56,19 +56,19 @@
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="https://github.com/user-attachments/assets/7bee3828-2c04-4810-88f1-19f832884d6b" width="25px"> Estatísticas de perfil </h2></summary>
   <div align="center">
-    <img height="192px" alt="davidabx7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidabx7&theme=transparent&title_color=00FFC3&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
-      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=davidabx7&theme=transparent&rank_icon=github&title_color=00FFC3&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+    <img height="192px" alt="davidabx-dev's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidabx-dev&theme=transparent&title_color=00FFC3&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
+      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=davidabx-dev&theme=transparent&rank_icon=github&title_color=00FFC3&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
 
   </div>
   <div align="center">
-  <a href="https://github.com/davidabx7/davidabx7"><img alt="davidabx7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=davidabx7&bg_color=RRGGBBAA&title_color=00FFC3&color=00FFC3&line=00FFC3&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Grap" /></a>
+  <a href="https://github.com/davidabx-dev/davidabx-dev"><img alt="davidabx-dev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=davidabx-dev&bg_color=RRGGBBAA&title_color=00FFC3&color=00FFC3&line=00FFC3&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Grap" /></a>
       
  <br>
 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidabx7/davidabx7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidabx7/davidabx7/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/davidabx7/davidabx7/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidabx-dev/davidabx-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidabx-dev/davidabx-dev/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/davidabx-dev/davidabx-dev/output/pacman-contribution-graph.svg">
 </picture>
 </details>
 
