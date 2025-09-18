@@ -58,11 +58,12 @@
   <div align="center">
     <img height="192px" alt="davidabx-dev's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidabx-dev&theme=transparent&title_color=00FFC3&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
       <img height="192px" src="https://github-readme-stats.vercel.app/api?username=davidabx-dev&theme=transparent&rank_icon=github&title_color=00FFC3&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
-
   </div>
+      
   <div align="center">
   <a href="https://github.com/davidabx-dev/davidabx-dev"><img alt="davidabx-dev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=davidabx-dev&bg_color=RRGGBBAA&title_color=00FFC3&color=00FFC3&line=00FFC3&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Grap" /></a>
   </div>
+
       
  <br>
 
